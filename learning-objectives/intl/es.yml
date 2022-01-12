@@ -305,19 +305,7 @@ scm/github/project-management:
 scm/github/ci:
   title: "GitHub: Integración continua con GitHub actions"
 
-ux: UX (User eXperience)
-
-# user-centricity/centricity:
-#   title: Diseñar la aplicación pensando en y entendiendo al usuario
-
-# product-design/interactivity:
-#   title: Crear prototipos para obtener feedback e iterar
-
-# product-design/visual-design:
-#   title: Aplicar los principios de diseño visual
-
-# research/test:
-#   title: Planear y ejecutar tests de usabilidad
+user-centricity: Diseño orientado al usuario
 
 user-centricity/centricity:
   title: Diseñar un producto o servicio poniendo al usuario en el centro
@@ -327,6 +315,8 @@ user-centricity/persistency:
 
 user-centricity/prioritization:
   title: Identificar y priorizar usuarios relevantes para el proyecto
+
+business: Negocios
 
 business/alignment:
   title: Alinear los objetivos del negocio con los del proyecto
@@ -342,6 +332,8 @@ business/metrics:
 
 business/benchmark:
   title: Entender estado del negocio en relación con el mercado local y global
+
+research: Investigación
 
 research/planning:
   title: Planificar investigación basada en las necesidades del proyecto
@@ -373,6 +365,8 @@ research/analytics:
 research/cuantitative-data:
   title: Analizar e interpretar data cuantitativa
 
+synthesis: Síntesis
+
 synthesis/weighing:
   title: Distinguir observaciones, data y/o respuestas que aportan valor al proyecto
 
@@ -393,6 +387,8 @@ synthesis/ideation:
 
 synthesis/feature-prioritization:
   title: Priorizar posibles soluciones reto del proyecto basandose en los objetivos del proyecto, las necesidades del usuario y las factibilidad de implementación
+
+product-design: Diseño de producto
 
 product-design/user-flows:
   title: Priorizar y proponer flujos de usuario que les ayuden a conseguir sus objetivos con el producto
@@ -433,6 +429,8 @@ product-design/naming:
 product-design/handoff:
   title: Documentar requerimentos de diseño para equipo de desarrollo utilizando herramientas de handoff
 
+communication: Comunicación
+
 communication/presentation:
   title: Presentar y sustentar propuestas a clientes
 
@@ -441,6 +439,8 @@ communication/negotiation:
 
 communication/relationship-management:
   title: Manejar relaciones con clientes
+
+planning: Planificación
 
 planning/monitor:
   title: Organizar  y dar seguimiento a actividades a desarrollarse durante el proyecto
